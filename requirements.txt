@@ -1,0 +1,7 @@
+﻿opencv-python
+numpy
+pillow
+pywin32
+deepface
+tf-keras
+mediapipe

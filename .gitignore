@@ -1,0 +1,18 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# Build artifacts
+build/
+dist/
+*.spec.bak
+
+# Runtime/output logs
+*.log
+
+# Local biometric data
+data/
+
+# Virtual environments
+.venv/
+venv/
